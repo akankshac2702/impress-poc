@@ -1,2 +1,2 @@
 # impress-poc
-ImpressJS - POC 
+POC of ImpressJS library to embed prezi in web-applications
